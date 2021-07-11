@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("La tienda de Ropa");
+        System.out.println("*La tienda de Ropa*");
 
         Producto productoUno = new Producto();
 

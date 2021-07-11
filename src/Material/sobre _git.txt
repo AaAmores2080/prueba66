@@ -15,3 +15,18 @@ git status
 git add.
 git commit -m "Mensaje"
 git push
+git push origin main -> Con rama
+
+CONFIGURACION DE CUENTA
+
+git config --global user.email "nombre@micorreo.com"
+git config --global user.name "Mi nombre"
+
+REVISAR DIFERENCIAS
+
+git diff src/App.java
+
+
+CLONAR REPOSITORIO
+
+git clone https://github.com/ciaocamilo//proyectos_grupo.git
