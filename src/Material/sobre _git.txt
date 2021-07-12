@@ -30,3 +30,7 @@ git diff src/App.java
 CLONAR REPOSITORIO
 
 git clone https://github.com/ciaocamilo//proyectos_grupo.git
+
+BAJAR CAMBIOS
+
+git pull
